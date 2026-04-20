@@ -1,501 +1,502 @@
-"2026, April 20, 05:45","(New Zealand) Balance of Trade",Medium,NZD
-"2026, April 20, 08:15","(China) Loan Prime Rate 1Y",Medium,CNY
-"2026, April 20, 08:15","(China) Loan Prime Rate 5Y",Medium,CNY
-"2026, April 20, 13:00","(Germany) PPI YoY",Medium,EUR
-"2026, April 20, 15:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
-"2026, April 20, 15:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
-"2026, April 20, 15:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
-"2026, April 20, 15:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
-"2026, April 20, 15:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
-"2026, April 20, 15:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
-"2026, April 20, 15:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
-"2026, April 20, 16:00","(China) FDI (YTD) YoY",Medium,CNY
-"2026, April 20, 19:30","(Canada) Inflation Rate YoY",High,CAD
-"2026, April 20, 19:30","(Canada) Core Inflation Rate YoY",Medium,CAD
-"2026, April 20, 19:30","(Canada) CPI Median YoY",High,CAD
-"2026, April 20, 19:30","(Canada) Inflation Rate MoM",Medium,CAD
-"2026, April 20, 19:30","(Canada) CPI Trimmed-Mean YoY",High,CAD
-"2026, April 20, 19:30","(Canada) CPI Common YoY",High,CAD
-"2026, April 20, 21:30","(Canada) BoC Survey of Consumer Expectations",Medium,CAD
-"2026, April 20, 21:30","(Canada) BoC Business Outlook Survey",Medium,CAD
-"2026, April 20, 23:40","(Euro Area) ECB President Lagarde Speech",Medium,EUR
-"2026, April 21, 05:45","(New Zealand) Inflation Rate QoQ",Medium,NZD
-"2026, April 21, 13:00","(United Kingdom) Employment Change",High,GBP
-"2026, April 21, 13:00","(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)",Medium,GBP
-"2026, April 21, 13:00","(United Kingdom) Unemployment Rate",High,GBP
-"2026, April 21, 13:00","(Switzerland) Balance of Trade",Medium,CHF
-"2026, April 21, 14:00","(Euro Area) ECB Guindos Speech",High,EUR
-"2026, April 21, 15:00","(Spain) Balance of Trade",Medium,EUR
-"2026, April 21, 16:00","(Euro Area) ZEW Economic Sentiment Index",Medium,EUR
-"2026, April 21, 16:00","(Germany) ZEW Economic Sentiment Index",High,EUR
-"2026, April 21, 19:15","(United States) ADP Employment Change Weekly",High,USD
-"2026, April 21, 19:30","(United States) Retail Sales Ex Gas/Autos MoM",High,USD
-"2026, April 21, 19:30","(United States) Retail Sales Control Group MoM",High,USD
-"2026, April 21, 19:30","(United States) Retail Sales YoY",High,USD
-"2026, April 21, 19:30","(United States) Retail Sales MoM",High,USD
-"2026, April 21, 19:30","(United States) Retail Sales Ex Autos MoM",High,USD
-"2026, April 21, 21:00","(United States) Business Inventories MoM",Medium,USD
-"2026, April 21, 21:00","(United States) Pending Home Sales MoM",Medium,USD
-"2026, April 21, 21:00","(United States) Pending Home Sales YoY",Medium,USD
-"2026, April 22, 01:30","(United States) Fed Waller Speech",Medium,USD
-"2026, April 22, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, April 22, 06:50","(Japan) Exports YoY",Medium,JPY
-"2026, April 22, 06:50","(Japan) Balance of Trade",High,JPY
-"2026, April 22, 11:30","(Netherlands) Consumer Confidence",Medium,EUR
-"2026, April 22, 13:00","(United Kingdom) Core Inflation Rate YoY",Medium,GBP
-"2026, April 22, 13:00","(United Kingdom) Inflation Rate YoY",High,GBP
-"2026, April 22, 13:00","(United Kingdom) Inflation Rate MoM",Medium,GBP
-"2026, April 22, 16:00","(Euro Area) Government Debt to GDP",Medium,EUR
-"2026, April 22, 16:00","(Euro Area) Government Budget to GDP",Medium,EUR
-"2026, April 22, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, April 22, 19:30","(Canada) New Housing Price Index MoM",Medium,CAD
-"2026, April 22, 21:00","(Euro Area) Consumer Confidence",Medium,EUR
-"2026, April 22, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, April 22, 21:30","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, April 23, 00:30","(Euro Area) ECB President Lagarde Speech",Medium,EUR
-"2026, April 23, 11:00","(European Union) New Car Registrations YoY",Medium,EUR
-"2026, April 23, 13:45","(France) Business Confidence",Medium,EUR
-"2026, April 23, 17:00","(United Kingdom) CBI Industrial Trends Orders",Medium,GBP
-"2026, April 23, 17:00","(United Kingdom) CBI Business Optimism Index",Medium,GBP
-"2026, April 23, 17:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,EUR
-"2026, April 23, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, April 23, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, April 23, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, April 23, 19:30","(United States) Chicago Fed National Activity Index",Medium,USD
-"2026, April 24, 06:01","(United Kingdom) Gfk Consumer Confidence",Medium,GBP
-"2026, April 24, 06:30","(Japan) Core Inflation Rate YoY",Medium,JPY
-"2026, April 24, 06:30","(Japan) Inflation Rate YoY",High,JPY
-"2026, April 24, 13:00","(United Kingdom) Retail Sales ex Fuel MoM",High,GBP
-"2026, April 24, 13:00","(United Kingdom) Retail Sales ex Fuel YoY",High,GBP
-"2026, April 24, 13:00","(United Kingdom) Retail Sales YoY",High,GBP
-"2026, April 24, 13:00","(United Kingdom) Retail Sales MoM",High,GBP
-"2026, April 24, 13:45","(France) Consumer Confidence",Medium,EUR
-"2026, April 24, 15:00","(Germany) Ifo Business Climate",High,EUR
-"2026, April 24, 17:00","(Spain) Consumer Confidence",Medium,EUR
-"2026, April 24, 19:30","(Canada) Retail Sales MoM",High,CAD
-"2026, April 24, 19:30","(Canada) Retail Sales YoY",High,CAD
-"2026, April 24, 19:30","(Canada) Retail Sales MoM",High,CAD
-"2026, April 24, 19:30","(Canada) Retail Sales Ex Autos MoM",High,CAD
-"2026, April 24, 21:00","(United States) Michigan Consumer Sentiment",High,USD
-"2026, April 27, 13:00","(Germany) GfK Consumer Confidence",High,EUR
-"2026, April 27, 15:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
-"2026, April 27, 15:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
-"2026, April 27, 15:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
-"2026, April 27, 15:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
-"2026, April 27, 15:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
-"2026, April 27, 15:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
-"2026, April 27, 15:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
-"2026, April 27, 17:00","(United Kingdom) CBI Distributive Trades",Medium,GBP
-"2026, April 27, 21:30","(United States) Dallas Fed Manufacturing Index",Medium,USD
-"2026, April 28, 10:00","(Japan) BoJ Interest Rate Decision",High,JPY
-"2026, April 28, 10:00","(Japan) BoJ Quarterly Outlook Report",Medium,JPY
-"2026, April 28, 14:00","(Spain) Unemployment Rate",High,EUR
-"2026, April 28, 14:00","(Spain) Retail Sales MoM",High,EUR
-"2026, April 28, 14:00","(Spain) Retail Sales YoY",High,EUR
-"2026, April 28, 17:00","(France) Unemployment Benefit Claims",Medium,EUR
-"2026, April 28, 19:15","(United States) ADP Employment Change Weekly",High,USD
-"2026, April 28, 20:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,USD
-"2026, April 28, 21:00","(United States) CB Consumer Confidence",Medium,USD
-"2026, April 29, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, April 29, 08:30","(Australia) Inflation Rate YoY",Medium,AUD
-"2026, April 29, 08:30","(Australia) Inflation Rate MoM",Medium,AUD
-"2026, April 29, 08:30","(Australia) CPI",High,AUD
-"2026, April 29, 08:30","(Australia) RBA Trimmed Mean CPI MoM",High,AUD
-"2026, April 29, 08:30","(Australia) RBA Trimmed Mean CPI YoY",High,AUD
-"2026, April 29, 08:30","(Australia) RBA Weighted Median CPI MoM",High,AUD
-"2026, April 29, 08:30","(Australia) RBA Weighted Median CPI YoY",High,AUD
-"2026, April 29, 08:30","(Australia) Quarterly RBA Trimmed Mean CPI QoQ",High,AUD
-"2026, April 29, 08:30","(Australia) Quarterly RBA Trimmed Mean CPI YoY",High,AUD
-"2026, April 29, 08:30","(Australia) Quarterly Inflation Rate QoQ",Medium,AUD
-"2026, April 29, 08:30","(Australia) Quarterly Inflation Rate YoY",Medium,AUD
-"2026, April 29, 12:00","(Japan) Housing Starts YoY",Medium,JPY
-"2026, April 29, 14:00","(Spain) Inflation Rate MoM",Medium,EUR
-"2026, April 29, 14:00","(Spain) Inflation Rate YoY",Medium,EUR
-"2026, April 29, 15:00","(Germany) Hesse CPI MoM",High,EUR
-"2026, April 29, 15:00","(Germany) Brandenburg CPI MoM",High,EUR
-"2026, April 29, 15:00","(Germany) Saxony CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) Bavaria CPI MoM",High,EUR
-"2026, April 29, 15:00","(Germany) Hesse CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) North Rhine Westphalia CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) Bavaria CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) Baden Wuerttemberg CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) Brandenburg CPI YoY",High,EUR
-"2026, April 29, 15:00","(Germany) Saxony CPI MoM",High,EUR
-"2026, April 29, 15:00","(Germany) North Rhine Westphalia CPI MoM",High,EUR
-"2026, April 29, 15:00","(Germany) Baden Wuerttemberg CPI MoM",High,EUR
-"2026, April 29, 15:00","(Italy) Consumer Confidence",Medium,EUR
-"2026, April 29, 15:00","(Italy) Business Confidence",Medium,EUR
-"2026, April 29, 16:00","(Euro Area) Economic Sentiment",Medium,EUR
-"2026, April 29, 16:00","(Greece) Unemployment Rate",High,EUR
-"2026, April 29, 17:00","(Spain) Business Confidence",Medium,EUR
-"2026, April 29, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, April 29, 19:00","(Germany) Inflation Rate YoY",High,EUR
-"2026, April 29, 19:00","(Germany) Inflation Rate MoM",Medium,EUR
-"2026, April 29, 19:30","(United States) Housing Starts MoM",Medium,USD
-"2026, April 29, 19:30","(United States) Building Permits",High,USD
-"2026, April 29, 19:30","(United States) Building Permits MoM",Medium,USD
-"2026, April 29, 19:30","(United States) Housing Starts",High,USD
-"2026, April 29, 19:30","(United States) Building Permits",High,USD
-"2026, April 29, 19:30","(United States) Housing Starts MoM",Medium,USD
-"2026, April 29, 19:30","(United States) Building Permits MoM",Medium,USD
-"2026, April 29, 19:30","(United States) Housing Starts",High,USD
-"2026, April 29, 19:30","(United States) Durable Goods Orders Ex Transp MoM",High,USD
-"2026, April 29, 19:30","(United States) Durable Goods Orders MoM",High,USD
-"2026, April 29, 19:30","(United States) Durable Goods Orders ex Defense MoM",High,USD
-"2026, April 29, 19:30","(United States) Goods Trade Balance",High,USD
-"2026, April 29, 19:30","(United States) Wholesale Inventories MoM",Medium,USD
-"2026, April 29, 19:30","(United States) Retail Inventories Ex Autos MoM",Medium,USD
-"2026, April 29, 20:45","(Canada) BoC Interest Rate Decision",High,CAD
-"2026, April 29, 20:45","(Canada) BoC Monetary Policy Report",High,CAD
-"2026, April 29, 21:30","(Canada) BoC Press Conference",Medium,CAD
-"2026, April 29, 21:30","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, April 29, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, April 30, 01:00","(United States) Fed Interest Rate Decision",High,USD
-"2026, April 30, 01:30","(United States) Fed Press Conference",High,USD
-"2026, April 30, 06:50","(Japan) Retail Sales YoY",Medium,JPY
-"2026, April 30, 06:50","(Japan) Industrial Production MoM",Medium,JPY
-"2026, April 30, 08:00","(New Zealand) ANZ Business Confidence",Medium,NZD
-"2026, April 30, 08:30","(China) NBS Non Manufacturing PMI",High,CNY
-"2026, April 30, 08:30","(China) NBS Manufacturing PMI",High,CNY
-"2026, April 30, 11:30","(Netherlands) Inflation Rate YoY",Medium,EUR
-"2026, April 30, 12:30","(France) GDP Growth Rate YoY",High,EUR
-"2026, April 30, 12:30","(France) GDP Growth Rate QoQ",High,EUR
-"2026, April 30, 13:00","(Germany) Retail Sales MoM",High,EUR
-"2026, April 30, 13:00","(Germany) Retail Sales YoY",High,EUR
-"2026, April 30, 13:00","(United Kingdom) Nationwide Housing Prices MoM",Medium,GBP
-"2026, April 30, 13:00","(United Kingdom) Nationwide Housing Prices YoY",Medium,GBP
-"2026, April 30, 13:45","(France) Inflation Rate MoM",Medium,EUR
-"2026, April 30, 13:45","(France) Inflation Rate YoY",High,EUR
-"2026, April 30, 14:00","(Spain) GDP Growth Rate QoQ",High,EUR
-"2026, April 30, 14:00","(Spain) GDP Growth Rate YoY",High,EUR
-"2026, April 30, 14:00","(Switzerland) KOF Leading Indicators",Medium,CHF
-"2026, April 30, 14:30","(Netherlands) GDP Growth Rate QoQ",Medium,EUR
-"2026, April 30, 14:30","(Netherlands) GDP Growth Rate YoY",Medium,EUR
-"2026, April 30, 14:55","(Germany) Unemployed Persons",Medium,EUR
-"2026, April 30, 14:55","(Germany) Unemployment Change",High,EUR
-"2026, April 30, 14:55","(Germany) Unemployment Rate",High,EUR
-"2026, April 30, 15:00","(Germany) GDP Growth Rate YoY",High,EUR
-"2026, April 30, 15:00","(Germany) GDP Growth Rate QoQ",High,EUR
-"2026, April 30, 15:00","(Italy) GDP Growth Rate YoY",High,EUR
-"2026, April 30, 15:00","(Italy) GDP Growth Rate QoQ",High,EUR
-"2026, April 30, 15:30","(Italy) Unemployment Rate",High,EUR
-"2026, April 30, 16:00","(Euro Area) Unemployment Rate",High,EUR
-"2026, April 30, 16:00","(Euro Area) Inflation Rate MoM",Medium,EUR
-"2026, April 30, 16:00","(Euro Area) Inflation Rate YoY",High,EUR
-"2026, April 30, 16:00","(Euro Area) GDP Growth Rate YoY",High,EUR
-"2026, April 30, 16:00","(Euro Area) CPI",High,EUR
-"2026, April 30, 16:00","(Euro Area) GDP Growth Rate QoQ",High,EUR
-"2026, April 30, 16:00","(Euro Area) Core Inflation Rate YoY",Medium,EUR
-"2026, April 30, 16:00","(Greece) Retail Sales YoY",High,EUR
-"2026, April 30, 16:00","(Italy) Inflation Rate YoY",High,EUR
-"2026, April 30, 16:00","(Italy) Inflation Rate MoM",Medium,EUR
-"2026, April 30, 18:00","(United Kingdom) BoE MPC Vote Unchanged",Medium,GBP
-"2026, April 30, 18:00","(United Kingdom) BoE MPC Vote Hike",Medium,GBP
-"2026, April 30, 18:00","(United Kingdom) BoE MPC Vote Cut",Medium,GBP
-"2026, April 30, 18:00","(United Kingdom) BoE Monetary Policy Report",High,GBP
-"2026, April 30, 18:00","(United Kingdom) MPC Meeting Minutes",Medium,GBP
-"2026, April 30, 18:00","(United Kingdom) BoE Interest Rate Decision",High,GBP
-"2026, April 30, 19:15","(Euro Area) ECB Interest Rate Decision",High,EUR
-"2026, April 30, 19:15","(Euro Area) Deposit Facility Rate",High,EUR
-"2026, April 30, 19:30","(Canada) GDP MoM",Medium,CAD
-"2026, April 30, 19:30","(Canada) GDP MoM",Medium,CAD
-"2026, April 30, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, April 30, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, April 30, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, April 30, 19:30","(United States) Core PCE Price Index MoM",High,USD
-"2026, April 30, 19:30","(United States) PCE Price Index YoY",Medium,USD
-"2026, April 30, 19:30","(United States) GDP Price Index QoQ",Medium,USD
-"2026, April 30, 19:30","(United States) Employment Cost Index QoQ",Medium,USD
-"2026, April 30, 19:30","(United States) Core PCE Price Index YoY",High,USD
-"2026, April 30, 19:30","(United States) Personal Spending MoM",High,USD
-"2026, April 30, 19:30","(United States) Personal Income MoM",High,USD
-"2026, April 30, 19:30","(United States) Employment Cost - Wages QoQ",Medium,USD
-"2026, April 30, 19:30","(United States) Employment Cost - Benefits QoQ",Medium,USD
-"2026, April 30, 19:30","(United States) GDP Growth Rate QoQ",High,USD
-"2026, April 30, 19:30","(United States) PCE Price Index MoM",Medium,USD
-"2026, April 30, 19:45","(Euro Area) ECB Press Conference",High,EUR
-"2026, April 30, 20:45","(United States) Chicago PMI",Medium,USD
-"2026, May 01, 08:30","(Australia) PPI QoQ",Medium,AUD
-"2026, May 01, 12:00","(Japan) Consumer Confidence",High,JPY
-"2026, May 01, 13:30","(Switzerland) Retail Sales YoY",High,CHF
-"2026, May 01, 13:30","(Switzerland) Retail Sales MoM",High,CHF
-"2026, May 01, 14:30","(Austria) Unemployment Rate",High,EUR
-"2026, May 01, 15:30","(United Kingdom) BoE Consumer Credit",Medium,GBP
-"2026, May 01, 15:30","(United Kingdom) Mortgage Approvals",Medium,GBP
-"2026, May 01, 15:30","(United Kingdom) Mortgage Lending",Medium,GBP
-"2026, May 01, 21:00","(United States) ISM Manufacturing PMI",High,USD
-"2026, May 01, 21:00","(United States) ISM Manufacturing Employment",Medium,USD
-"2026, May 02, 06:30","(Japan) Unemployment Rate",Medium,JPY
-"2026, May 04, 15:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
-"2026, May 04, 15:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
-"2026, May 04, 15:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
-"2026, May 04, 15:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
-"2026, May 04, 15:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
-"2026, May 04, 15:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
-"2026, May 04, 15:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
-"2026, May 05, 11:30","(Australia) RBA Interest Rate Decision",High,AUD
-"2026, May 05, 12:30","(Australia) RBA Press Conference",Medium,AUD
-"2026, May 05, 13:30","(Switzerland) Inflation Rate YoY",Medium,CHF
-"2026, May 05, 14:00","(Spain) Unemployment Change",High,EUR
-"2026, May 05, 19:30","(Canada) Balance of Trade",Medium,CAD
-"2026, May 05, 19:30","(United States) Imports",Medium,USD
-"2026, May 05, 19:30","(United States) Balance of Trade",Medium,USD
-"2026, May 05, 19:30","(United States) Exports",Medium,USD
-"2026, May 05, 21:00","(United States) ISM Services PMI",High,USD
-"2026, May 05, 21:00","(United States) JOLTs Job Openings",High,USD
-"2026, May 06, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, May 06, 04:00","(New Zealand) RBNZ Financial Stability Report",Medium,NZD
-"2026, May 06, 05:45","(New Zealand) Employment Change QoQ",High,NZD
-"2026, May 06, 05:45","(New Zealand) Unemployment Rate",High,NZD
-"2026, May 06, 06:00","(Australia) Ai Group Industry Index",Medium,AUD
-"2026, May 06, 08:00","(New Zealand) RBNZ Press Conference",Medium,NZD
-"2026, May 06, 13:45","(France) Industrial Production MoM",Medium,EUR
-"2026, May 06, 15:00","(Italy) Retail Sales YoY",High,EUR
-"2026, May 06, 15:00","(Italy) Retail Sales MoM",High,EUR
-"2026, May 06, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, May 06, 19:15","(United States) ADP Employment Change",High,USD
-"2026, May 06, 21:00","(Canada) Ivey PMI s.a",High,CAD
-"2026, May 06, 21:30","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, May 06, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, May 07, 06:50","(Japan) BoJ Monetary Policy Meeting Minutes",Medium,JPY
-"2026, May 07, 08:30","(Australia) Balance of Trade",High,AUD
-"2026, May 07, 13:00","(Germany) Factory Orders MoM",Medium,EUR
-"2026, May 07, 13:45","(France) Balance of Trade",Medium,EUR
-"2026, May 07, 14:00","(Switzerland) Unemployment Rate",High,CHF
-"2026, May 07, 16:00","(Euro Area) Retail Sales MoM",High,EUR
-"2026, May 07, 16:00","(Euro Area) Retail Sales YoY",High,EUR
-"2026, May 07, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, May 07, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, May 07, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, May 07, 19:30","(United States) Unit Labour Costs QoQ",Medium,USD
-"2026, May 07, 19:30","(United States) Nonfarm Productivity QoQ",Medium,USD
-"2026, May 08, 07:01","(United Kingdom) RICS House Price Balance",Medium,GBP
-"2026, May 08, 13:00","(Germany) Balance of Trade",High,EUR
-"2026, May 08, 13:00","(Germany) Industrial Production MoM",Medium,EUR
-"2026, May 08, 13:00","(Germany) Exports MoM",Medium,EUR
-"2026, May 08, 13:00","(United Kingdom) Halifax House Price Index YoY",Medium,GBP
-"2026, May 08, 13:00","(United Kingdom) Halifax House Price Index MoM",Medium,GBP
-"2026, May 08, 14:00","(Switzerland) Consumer Confidence",Medium,CHF
-"2026, May 08, 19:30","(Canada) Employment Change",High,CAD
-"2026, May 08, 19:30","(Canada) Part Time Employment Chg",Medium,CAD
-"2026, May 08, 19:30","(Canada) Unemployment Rate",High,CAD
-"2026, May 08, 19:30","(Canada) Full Time Employment Chg",Medium,CAD
-"2026, May 08, 19:30","(Canada) Participation Rate",Medium,CAD
-"2026, May 08, 19:30","(United States) Non Farm Payrolls",High,USD
-"2026, May 08, 19:30","(United States) Average Hourly Earnings MoM",Medium,USD
-"2026, May 08, 19:30","(United States) Unemployment Rate",High,USD
-"2026, May 08, 19:30","(United States) Average Hourly Earnings YoY",Medium,USD
-"2026, May 08, 19:30","(United States) Nonfarm Payrolls Private",High,USD
-"2026, May 08, 19:30","(United States) U-6 Unemployment Rate",High,USD
-"2026, May 08, 19:30","(United States) Participation Rate",Medium,USD
-"2026, May 08, 21:00","(United States) Michigan Consumer Sentiment",High,USD
-"2026, May 09, 06:30","(Japan) Household Spending YoY",Medium,JPY
-"2026, May 09, 06:30","(Japan) Household Spending MoM",Medium,JPY
-"2026, May 09, 10:00","(China) Imports YoY",High,CNY
-"2026, May 09, 10:00","(China) Balance of Trade",High,CNY
-"2026, May 09, 10:00","(China) Exports YoY",High,CNY
-"2026, May 11, 08:30","(China) Inflation Rate YoY",High,CNY
-"2026, May 11, 08:30","(China) PPI YoY",Medium,CNY
-"2026, May 11, 08:30","(China) Inflation Rate MoM",Medium,CNY
-"2026, May 11, 15:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
-"2026, May 11, 15:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
-"2026, May 11, 15:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
-"2026, May 11, 15:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
-"2026, May 11, 15:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
-"2026, May 11, 15:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
-"2026, May 11, 15:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
-"2026, May 11, 21:00","(United States) Existing Home Sales MoM",High,USD
-"2026, May 11, 21:00","(United States) Existing Home Sales",High,USD
-"2026, May 12, 06:01","(United Kingdom) BRC Retail Sales Monitor YoY",High,GBP
-"2026, May 12, 06:50","(Japan) BoJ Summary of Opinions",Medium,JPY
-"2026, May 12, 15:00","(Italy) Industrial Production MoM",Medium,EUR
-"2026, May 12, 16:00","(Euro Area) ZEW Economic Sentiment Index",Medium,EUR
-"2026, May 12, 16:00","(Germany) ZEW Economic Sentiment Index",High,EUR
-"2026, May 12, 19:15","(United States) ADP Employment Change Weekly",High,USD
-"2026, May 12, 19:30","(United States) Inflation Rate YoY",High,USD
-"2026, May 12, 19:30","(United States) Core Inflation Rate MoM",High,USD
-"2026, May 12, 19:30","(United States) CPI",High,USD
-"2026, May 12, 19:30","(United States) CPI s.a",High,USD
-"2026, May 12, 19:30","(United States) Inflation Rate MoM",High,USD
-"2026, May 12, 19:30","(United States) Core Inflation Rate YoY",High,USD
-"2026, May 13, 01:00","(United States) Monthly Budget Statement",Medium,USD
-"2026, May 13, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, May 13, 06:50","(Japan) Current Account",Medium,JPY
-"2026, May 13, 07:30","(Australia) Westpac Consumer Confidence Index",Medium,AUD
-"2026, May 13, 07:30","(Australia) Westpac Consumer Confidence Change",High,AUD
-"2026, May 13, 08:30","(Australia) Investment Lending for Homes",Medium,AUD
-"2026, May 13, 08:30","(Australia) Home Loans QoQ",Medium,AUD
-"2026, May 13, 08:30","(Australia) NAB Business Confidence",High,AUD
-"2026, May 13, 12:30","(France) Unemployment Rate",Medium,EUR
-"2026, May 13, 13:00","(United Kingdom) Employment Change",High,GBP
-"2026, May 13, 13:00","(United Kingdom) Unemployment Rate",High,GBP
-"2026, May 13, 13:00","(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)",Medium,GBP
-"2026, May 13, 16:00","(Euro Area) Employment Change QoQ",High,EUR
-"2026, May 13, 16:00","(Euro Area) Industrial Production MoM",Medium,EUR
-"2026, May 13, 16:00","(Euro Area) Employment Change YoY",High,EUR
-"2026, May 13, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, May 13, 19:30","(United States) Core PPI MoM",Medium,USD
-"2026, May 13, 19:30","(United States) PPI MoM",High,USD
-"2026, May 13, 21:30","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, May 13, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, May 14, 13:00","(United Kingdom) Business Investment QoQ",Medium,GBP
-"2026, May 14, 13:00","(United Kingdom) Goods Trade Balance",High,GBP
-"2026, May 14, 13:00","(United Kingdom) Industrial Production MoM",Medium,GBP
-"2026, May 14, 13:00","(United Kingdom) GDP Growth Rate QoQ",High,GBP
-"2026, May 14, 13:00","(United Kingdom) GDP 3-Month Avg",Medium,GBP
-"2026, May 14, 13:00","(United Kingdom) GDP Growth Rate YoY",High,GBP
-"2026, May 14, 13:00","(United Kingdom) Goods Trade Balance Non-EU",High,GBP
-"2026, May 14, 13:00","(United Kingdom) Manufacturing Production MoM",Medium,GBP
-"2026, May 14, 13:00","(United Kingdom) GDP MoM",High,GBP
-"2026, May 14, 16:00","(China) New Yuan Loans",Medium,CNY
-"2026, May 14, 19:30","(United States) Retail Sales MoM",High,USD
-"2026, May 14, 19:30","(United States) Retail Sales Ex Gas/Autos MoM",High,USD
-"2026, May 14, 19:30","(United States) Export Prices MoM",Medium,USD
-"2026, May 14, 19:30","(United States) Retail Sales Control Group MoM",High,USD
-"2026, May 14, 19:30","(United States) Retail Sales YoY",High,USD
-"2026, May 14, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, May 14, 19:30","(United States) Retail Sales Ex Autos MoM",High,USD
-"2026, May 14, 19:30","(United States) Import Prices MoM",Medium,USD
-"2026, May 14, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, May 14, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, May 14, 21:00","(United States) Business Inventories MoM",Medium,USD
-"2026, May 15, 05:30","(New Zealand) Business NZ PMI",Medium,NZD
-"2026, May 15, 06:50","(Japan) GDP Growth Annualized",Medium,JPY
-"2026, May 15, 06:50","(Japan) GDP Growth Rate QoQ",High,JPY
-"2026, May 15, 13:00","(Germany) Wholesale Prices MoM",Medium,EUR
-"2026, May 15, 13:00","(Germany) Wholesale Prices YoY",Medium,EUR
-"2026, May 15, 13:30","(Switzerland) Industrial Production YoY",Medium,CHF
-"2026, May 15, 16:00","(China) Current Account",Medium,CNY
-"2026, May 15, 17:00","(Spain) Consumer Confidence",Medium,EUR
-"2026, May 15, 19:15","(Canada) Housing Starts",Medium,CAD
-"2026, May 15, 19:30","(United States) NY Empire State Manufacturing Index",High,USD
-"2026, May 15, 20:15","(United States) Industrial Production MoM",Medium,USD
-"2026, May 18, 08:30","(China) House Price Index YoY",Medium,CNY
-"2026, May 18, 09:00","(China) Retail Sales YoY",High,CNY
-"2026, May 18, 09:00","(China) Fixed Asset Investment (YTD) YoY",Medium,CNY
-"2026, May 18, 09:00","(China) Industrial Production YoY",High,CNY
-"2026, May 18, 09:00","(China) Unemployment Rate",High,CNY
-"2026, May 18, 14:00","(Switzerland) GDP Growth Rate QoQ",Medium,CHF
-"2026, May 18, 15:00","(Italy) Balance of Trade",Medium,EUR
-"2026, May 18, 16:00","(China) FDI (YTD) YoY",Medium,CNY
-"2026, May 18, 21:00","(United States) NAHB Housing Market Index",Medium,USD
-"2026, May 19, 03:00","(United States) Net Long-term TIC Flows",Medium,USD
-"2026, May 19, 08:30","(Australia) RBA Meeting Minutes",High,AUD
-"2026, May 19, 15:00","(Spain) Balance of Trade",Medium,EUR
-"2026, May 19, 16:00","(Euro Area) Balance of Trade",Medium,EUR
-"2026, May 19, 19:15","(United States) ADP Employment Change Weekly",High,USD
-"2026, May 19, 19:30","(Canada) Inflation Rate MoM",Medium,CAD
-"2026, May 19, 19:30","(Canada) Core Inflation Rate YoY",Medium,CAD
-"2026, May 19, 19:30","(Canada) CPI Median YoY",High,CAD
-"2026, May 19, 19:30","(Canada) CPI Trimmed-Mean YoY",High,CAD
-"2026, May 19, 19:30","(Canada) Inflation Rate YoY",High,CAD
-"2026, May 19, 19:30","(Canada) CPI Common YoY",High,CAD
-"2026, May 19, 21:00","(United States) Pending Home Sales MoM",Medium,USD
-"2026, May 19, 21:00","(United States) Pending Home Sales YoY",Medium,USD
-"2026, May 20, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, May 20, 08:15","(China) Loan Prime Rate 1Y",Medium,CNY
-"2026, May 20, 08:15","(China) Loan Prime Rate 5Y",Medium,CNY
-"2026, May 20, 11:30","(Netherlands) Consumer Confidence",Medium,EUR
-"2026, May 20, 13:00","(Germany) PPI YoY",Medium,EUR
-"2026, May 20, 13:00","(United Kingdom) Inflation Rate YoY",High,GBP
-"2026, May 20, 13:00","(United Kingdom) Inflation Rate MoM",Medium,GBP
-"2026, May 20, 13:00","(United Kingdom) Core Inflation Rate YoY",Medium,GBP
-"2026, May 20, 16:00","(Euro Area) CPI",High,EUR
-"2026, May 20, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, May 20, 21:30","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, May 20, 21:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, May 21, 01:00","(United States) FOMC Minutes",High,USD
-"2026, May 21, 05:45","(New Zealand) Balance of Trade",Medium,NZD
-"2026, May 21, 06:50","(Japan) Balance of Trade",High,JPY
-"2026, May 21, 06:50","(Japan) Exports YoY",Medium,JPY
-"2026, May 21, 08:30","(Australia) Unemployment Rate",High,AUD
-"2026, May 21, 08:30","(Australia) Employment Change",High,AUD
-"2026, May 21, 08:30","(Australia) Full Time Employment Chg",Medium,AUD
-"2026, May 21, 11:30","(Netherlands) Unemployment Rate",Medium,EUR
-"2026, May 21, 19:30","(Canada) New Housing Price Index MoM",Medium,CAD
-"2026, May 21, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, May 21, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, May 21, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, May 21, 19:30","(United States) Building Permits",High,USD
-"2026, May 21, 19:30","(United States) Housing Starts",High,USD
-"2026, May 21, 19:30","(United States) Philadelphia Fed Manufacturing Index",Medium,USD
-"2026, May 21, 19:30","(United States) Building Permits MoM",Medium,USD
-"2026, May 21, 19:30","(United States) Housing Starts MoM",Medium,USD
-"2026, May 21, 21:00","(Euro Area) Consumer Confidence",Medium,EUR
-"2026, May 22, 05:45","(New Zealand) Retail Sales YoY",High,NZD
-"2026, May 22, 05:45","(New Zealand) Retail Sales QoQ",High,NZD
-"2026, May 22, 06:50","(Japan) Machinery Orders MoM",Medium,JPY
-"2026, May 22, 06:50","(Japan) Machinery Orders YoY",Medium,JPY
-"2026, May 22, 13:00","(Germany) GfK Consumer Confidence",High,EUR
-"2026, May 22, 13:00","(United Kingdom) Retail Sales MoM",High,GBP
-"2026, May 22, 13:00","(United Kingdom) Retail Sales YoY",High,GBP
-"2026, May 22, 13:00","(United Kingdom) Retail Sales ex Fuel MoM",High,GBP
-"2026, May 22, 13:00","(United Kingdom) Retail Sales ex Fuel YoY",High,GBP
-"2026, May 22, 13:45","(France) Business Confidence",Medium,EUR
-"2026, May 22, 15:00","(Germany) Ifo Business Climate",High,EUR
-"2026, May 22, 16:00","(Euro area) Negotiated Wage Growth",Medium,EUR
-"2026, May 22, 17:00","(United Kingdom) CBI Industrial Trends Orders",Medium,GBP
-"2026, May 22, 19:30","(Canada) Retail Sales MoM",High,CAD
-"2026, May 22, 19:30","(Canada) Retail Sales YoY",High,CAD
-"2026, May 22, 19:30","(Canada) Retail Sales MoM",High,CAD
-"2026, May 22, 19:30","(Canada) Retail Sales Ex Autos MoM",High,CAD
-"2026, May 22, 21:00","(United States) Michigan Consumer Sentiment",High,USD
-"2026, May 23, 06:01","(United Kingdom) Gfk Consumer Confidence",Medium,GBP
-"2026, May 23, 06:30","(Japan) Inflation Rate YoY",High,JPY
-"2026, May 23, 06:30","(Japan) Core Inflation Rate YoY",Medium,JPY
-"2026, May 25, 19:30","(United States) Chicago Fed National Activity Index",Medium,USD
-"2026, May 26, 20:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,USD
-"2026, May 26, 21:00","(United States) CB Consumer Confidence",Medium,USD
-"2026, May 26, 21:30","(United States) Dallas Fed Manufacturing Index",Medium,USD
-"2026, May 27, 08:30","(Australia) RBA Weighted Median CPI MoM",High,AUD
-"2026, May 27, 08:30","(Australia) RBA Weighted Median CPI YoY",High,AUD
-"2026, May 27, 08:30","(Australia) RBA Trimmed Mean CPI MoM",High,AUD
-"2026, May 27, 08:30","(Australia) RBA Trimmed Mean CPI YoY",High,AUD
-"2026, May 27, 08:30","(Australia) Construction Work Done QoQ",Medium,AUD
-"2026, May 27, 08:30","(Australia) Inflation Rate YoY",Medium,AUD
-"2026, May 27, 08:30","(Australia) CPI",High,AUD
-"2026, May 27, 08:30","(Australia) Inflation Rate MoM",Medium,AUD
-"2026, May 27, 09:00","(New Zealand) RBNZ Interest Rate Decision",Medium,NZD
-"2026, May 27, 10:00","(New Zealand) RBNZ Press Conference",Medium,NZD
-"2026, May 27, 11:00","(European Union) New Car Registrations YoY",Medium,EUR
-"2026, May 27, 13:45","(France) Consumer Confidence",Medium,EUR
-"2026, May 27, 17:00","(France) Unemployment Benefit Claims",Medium,EUR
-"2026, May 27, 17:00","(United Kingdom) CBI Distributive Trades",Medium,GBP
-"2026, May 27, 18:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
-"2026, May 27, 19:15","(United States) ADP Employment Change Weekly",High,USD
-"2026, May 28, 03:30","(United States) API Crude Oil Stock Change",Medium,USD
-"2026, May 28, 08:00","(New Zealand) ANZ Business Confidence",Medium,NZD
-"2026, May 28, 12:00","(Japan) Housing Starts YoY",Medium,JPY
-"2026, May 28, 14:00","(Spain) Retail Sales MoM",High,EUR
-"2026, May 28, 14:00","(Spain) Retail Sales YoY",High,EUR
-"2026, May 28, 15:00","(Italy) Business Confidence",Medium,EUR
-"2026, May 28, 15:00","(Italy) Consumer Confidence",Medium,EUR
-"2026, May 28, 16:00","(Euro Area) Economic Sentiment",Medium,EUR
-"2026, May 28, 17:00","(Spain) Business Confidence",Medium,EUR
-"2026, May 28, 19:30","(Canada) Current Account",Medium,CAD
-"2026, May 28, 19:30","(United States) Jobless Claims 4-week Average",High,USD
-"2026, May 28, 19:30","(United States) Personal Income MoM",High,USD
-"2026, May 28, 19:30","(United States) GDP Growth Rate QoQ",High,USD
-"2026, May 28, 19:30","(United States) Durable Goods Orders MoM",High,USD
-"2026, May 28, 19:30","(United States) GDP Price Index QoQ",Medium,USD
-"2026, May 28, 19:30","(United States) PCE Price Index YoY",Medium,USD
-"2026, May 28, 19:30","(United States) Core PCE Price Index MoM",High,USD
-"2026, May 28, 19:30","(United States) Durable Goods Orders Ex Transp MoM",High,USD
-"2026, May 28, 19:30","(United States) Core PCE Price Index YoY",High,USD
-"2026, May 28, 19:30","(United States) Durable Goods Orders ex Defense MoM",High,USD
-"2026, May 28, 19:30","(United States) PCE Price Index MoM",Medium,USD
-"2026, May 28, 19:30","(United States) Corporate Profits QoQ",Medium,USD
-"2026, May 28, 19:30","(United States) Continuing Jobless Claims",High,USD
-"2026, May 28, 19:30","(United States) Initial Jobless Claims",High,USD
-"2026, May 28, 19:30","(United States) Personal Spending MoM",High,USD
-"2026, May 28, 21:00","(Canada) BoC Financial Stability Report",Medium,CAD
-"2026, May 28, 21:00","(United States) New Home Sales MoM",High,USD
-"2026, May 28, 21:00","(United States) New Home Sales",High,USD
-"2026, May 28, 23:00","(United States) EIA Gasoline Stocks Change",Medium,USD
-"2026, May 28, 23:00","(United States) EIA Crude Oil Stocks Change",Medium,USD
-"2026, May 29, 06:50","(Japan) Industrial Production MoM",Medium,JPY
-"2026, May 29, 12:00","(Japan) Consumer Confidence",High,JPY
-"2026, May 29, 13:00","(United Kingdom) Nationwide Housing Prices MoM",Medium,GBP
-"2026, May 29, 13:00","(United Kingdom) Nationwide Housing Prices YoY",Medium,GBP
-"2026, May 29, 13:45","(France) Inflation Rate MoM",Medium,EUR
+Date,Event,Impact,Currency
+"2026, April 20, 01:15","(China) Loan Prime Rate 1Y",Medium,CNY
+"2026, April 20, 01:15","(China) Loan Prime Rate 5Y",Medium,CNY
+"2026, April 20, 06:00","(Germany) PPI YoY",Medium,EUR
+"2026, April 20, 08:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
+"2026, April 20, 08:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
+"2026, April 20, 08:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
+"2026, April 20, 08:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
+"2026, April 20, 08:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
+"2026, April 20, 08:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
+"2026, April 20, 08:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
+"2026, April 20, 12:30","(Canada) Inflation Rate YoY",High,CAD
+"2026, April 20, 12:30","(Canada) Core Inflation Rate YoY",Medium,CAD
+"2026, April 20, 12:30","(Canada) CPI Median YoY",High,CAD
+"2026, April 20, 12:30","(Canada) Inflation Rate MoM",Medium,CAD
+"2026, April 20, 12:30","(Canada) CPI Trimmed-Mean YoY",High,CAD
+"2026, April 20, 12:30","(Canada) CPI Common YoY",High,CAD
+"2026, April 20, 14:30","(Canada) BoC Survey of Consumer Expectations",Medium,CAD
+"2026, April 20, 14:30","(Canada) BoC Business Outlook Survey",Medium,CAD
+"2026, April 20, 16:40","(Euro Area) ECB President Lagarde Speech",Medium,EUR
+"2026, April 20, 22:45","(New Zealand) Inflation Rate QoQ",Medium,NZD
+"2026, April 21, 06:00","(United Kingdom) Employment Change",High,GBP
+"2026, April 21, 06:00","(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)",Medium,GBP
+"2026, April 21, 06:00","(United Kingdom) Unemployment Rate",High,GBP
+"2026, April 21, 06:00","(Switzerland) Balance of Trade",Medium,CHF
+"2026, April 21, 07:00","(Euro Area) ECB Guindos Speech",High,EUR
+"2026, April 21, 08:00","(Spain) Balance of Trade",Medium,EUR
+"2026, April 21, 09:00","(China) FDI (YTD) YoY",Medium,CNY
+"2026, April 21, 09:00","(Euro Area) ZEW Economic Sentiment Index",Medium,EUR
+"2026, April 21, 09:00","(Germany) ZEW Economic Sentiment Index",High,EUR
+"2026, April 21, 12:15","(United States) ADP Employment Change Weekly",High,USD
+"2026, April 21, 12:30","(United States) Retail Sales Ex Gas/Autos MoM",High,USD
+"2026, April 21, 12:30","(United States) Retail Sales Control Group MoM",High,USD
+"2026, April 21, 12:30","(United States) Retail Sales YoY",High,USD
+"2026, April 21, 12:30","(United States) Retail Sales MoM",High,USD
+"2026, April 21, 12:30","(United States) Retail Sales Ex Autos MoM",High,USD
+"2026, April 21, 14:00","(United States) Business Inventories MoM",Medium,USD
+"2026, April 21, 14:00","(United States) Pending Home Sales MoM",Medium,USD
+"2026, April 21, 14:00","(United States) Pending Home Sales YoY",Medium,USD
+"2026, April 21, 18:30","(United States) Fed Waller Speech",Medium,USD
+"2026, April 21, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, April 21, 23:50","(Japan) Exports YoY",Medium,JPY
+"2026, April 21, 23:50","(Japan) Balance of Trade",High,JPY
+"2026, April 22, 04:30","(Netherlands) Consumer Confidence",Medium,EUR
+"2026, April 22, 06:00","(United Kingdom) Core Inflation Rate YoY",Medium,GBP
+"2026, April 22, 06:00","(United Kingdom) Inflation Rate YoY",High,GBP
+"2026, April 22, 06:00","(United Kingdom) Inflation Rate MoM",Medium,GBP
+"2026, April 22, 09:00","(Euro Area) Government Debt to GDP",Medium,EUR
+"2026, April 22, 09:00","(Euro Area) Government Budget to GDP",Medium,EUR
+"2026, April 22, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, April 22, 12:30","(Canada) New Housing Price Index MoM",Medium,CAD
+"2026, April 22, 14:00","(Euro Area) Consumer Confidence",Medium,EUR
+"2026, April 22, 14:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, April 22, 14:30","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, April 22, 17:30","(Euro Area) ECB President Lagarde Speech",Medium,EUR
+"2026, April 23, 04:00","(European Union) New Car Registrations YoY",Medium,EUR
+"2026, April 23, 06:45","(France) Business Confidence",Medium,EUR
+"2026, April 23, 10:00","(United Kingdom) CBI Industrial Trends Orders",Medium,GBP
+"2026, April 23, 10:00","(United Kingdom) CBI Business Optimism Index",Medium,GBP
+"2026, April 23, 10:00","(Euro Area) ECB Non-Monetary Policy Meeting",Medium,EUR
+"2026, April 23, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, April 23, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, April 23, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, April 23, 12:30","(United States) Chicago Fed National Activity Index",Medium,USD
+"2026, April 23, 23:01","(United Kingdom) Gfk Consumer Confidence",Medium,GBP
+"2026, April 23, 23:30","(Japan) Core Inflation Rate YoY",Medium,JPY
+"2026, April 23, 23:30","(Japan) Inflation Rate YoY",High,JPY
+"2026, April 24, 06:00","(United Kingdom) Retail Sales ex Fuel MoM",High,GBP
+"2026, April 24, 06:00","(United Kingdom) Retail Sales ex Fuel YoY",High,GBP
+"2026, April 24, 06:00","(United Kingdom) Retail Sales YoY",High,GBP
+"2026, April 24, 06:00","(United Kingdom) Retail Sales MoM",High,GBP
+"2026, April 24, 06:45","(France) Consumer Confidence",Medium,EUR
+"2026, April 24, 08:00","(Germany) Ifo Business Climate",High,EUR
+"2026, April 24, 10:00","(Spain) Consumer Confidence",Medium,EUR
+"2026, April 24, 12:30","(Canada) Retail Sales MoM",High,CAD
+"2026, April 24, 12:30","(Canada) Retail Sales YoY",High,CAD
+"2026, April 24, 12:30","(Canada) Retail Sales MoM",High,CAD
+"2026, April 24, 12:30","(Canada) Retail Sales Ex Autos MoM",High,CAD
+"2026, April 24, 14:00","(United States) Michigan Consumer Sentiment",High,USD
+"2026, April 27, 06:00","(Germany) GfK Consumer Confidence",High,EUR
+"2026, April 27, 08:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
+"2026, April 27, 08:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
+"2026, April 27, 08:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
+"2026, April 27, 08:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
+"2026, April 27, 08:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
+"2026, April 27, 08:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
+"2026, April 27, 08:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
+"2026, April 27, 10:00","(United Kingdom) CBI Distributive Trades",Medium,GBP
+"2026, April 27, 14:30","(United States) Dallas Fed Manufacturing Index",Medium,USD
+"2026, April 28, 03:00","(Japan) BoJ Interest Rate Decision",High,JPY
+"2026, April 28, 03:00","(Japan) BoJ Quarterly Outlook Report",Medium,JPY
+"2026, April 28, 07:00","(Spain) Unemployment Rate",High,EUR
+"2026, April 28, 07:00","(Spain) Retail Sales MoM",High,EUR
+"2026, April 28, 07:00","(Spain) Retail Sales YoY",High,EUR
+"2026, April 28, 10:00","(France) Unemployment Benefit Claims",Medium,EUR
+"2026, April 28, 12:15","(United States) ADP Employment Change Weekly",High,USD
+"2026, April 28, 13:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,USD
+"2026, April 28, 14:00","(United States) CB Consumer Confidence",Medium,USD
+"2026, April 28, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, April 29, 01:30","(Australia) Inflation Rate YoY",Medium,AUD
+"2026, April 29, 01:30","(Australia) Inflation Rate MoM",Medium,AUD
+"2026, April 29, 01:30","(Australia) CPI",High,AUD
+"2026, April 29, 01:30","(Australia) RBA Trimmed Mean CPI MoM",High,AUD
+"2026, April 29, 01:30","(Australia) RBA Trimmed Mean CPI YoY",High,AUD
+"2026, April 29, 01:30","(Australia) RBA Weighted Median CPI MoM",High,AUD
+"2026, April 29, 01:30","(Australia) RBA Weighted Median CPI YoY",High,AUD
+"2026, April 29, 01:30","(Australia) Quarterly RBA Trimmed Mean CPI QoQ",High,AUD
+"2026, April 29, 01:30","(Australia) Quarterly RBA Trimmed Mean CPI YoY",High,AUD
+"2026, April 29, 01:30","(Australia) Quarterly Inflation Rate QoQ",Medium,AUD
+"2026, April 29, 01:30","(Australia) Quarterly Inflation Rate YoY",Medium,AUD
+"2026, April 29, 05:00","(Japan) Housing Starts YoY",Medium,JPY
+"2026, April 29, 07:00","(Spain) Inflation Rate MoM",Medium,EUR
+"2026, April 29, 07:00","(Spain) Inflation Rate YoY",Medium,EUR
+"2026, April 29, 08:00","(Germany) Hesse CPI MoM",High,EUR
+"2026, April 29, 08:00","(Germany) Brandenburg CPI MoM",High,EUR
+"2026, April 29, 08:00","(Germany) Saxony CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) Bavaria CPI MoM",High,EUR
+"2026, April 29, 08:00","(Germany) Hesse CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) North Rhine Westphalia CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) Bavaria CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) Baden Wuerttemberg CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) Brandenburg CPI YoY",High,EUR
+"2026, April 29, 08:00","(Germany) Saxony CPI MoM",High,EUR
+"2026, April 29, 08:00","(Germany) North Rhine Westphalia CPI MoM",High,EUR
+"2026, April 29, 08:00","(Germany) Baden Wuerttemberg CPI MoM",High,EUR
+"2026, April 29, 08:00","(Italy) Consumer Confidence",Medium,EUR
+"2026, April 29, 08:00","(Italy) Business Confidence",Medium,EUR
+"2026, April 29, 09:00","(Euro Area) Economic Sentiment",Medium,EUR
+"2026, April 29, 09:00","(Greece) Unemployment Rate",High,EUR
+"2026, April 29, 10:00","(Spain) Business Confidence",Medium,EUR
+"2026, April 29, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, April 29, 12:00","(Germany) Inflation Rate YoY",High,EUR
+"2026, April 29, 12:00","(Germany) Inflation Rate MoM",Medium,EUR
+"2026, April 29, 12:30","(United States) Housing Starts MoM",Medium,USD
+"2026, April 29, 12:30","(United States) Building Permits",High,USD
+"2026, April 29, 12:30","(United States) Building Permits MoM",Medium,USD
+"2026, April 29, 12:30","(United States) Housing Starts",High,USD
+"2026, April 29, 12:30","(United States) Building Permits",High,USD
+"2026, April 29, 12:30","(United States) Housing Starts MoM",Medium,USD
+"2026, April 29, 12:30","(United States) Building Permits MoM",Medium,USD
+"2026, April 29, 12:30","(United States) Housing Starts",High,USD
+"2026, April 29, 12:30","(United States) Durable Goods Orders Ex Transp MoM",High,USD
+"2026, April 29, 12:30","(United States) Durable Goods Orders MoM",High,USD
+"2026, April 29, 12:30","(United States) Durable Goods Orders ex Defense MoM",High,USD
+"2026, April 29, 12:30","(United States) Goods Trade Balance",High,USD
+"2026, April 29, 12:30","(United States) Wholesale Inventories MoM",Medium,USD
+"2026, April 29, 12:30","(United States) Retail Inventories Ex Autos MoM",Medium,USD
+"2026, April 29, 13:45","(Canada) BoC Interest Rate Decision",High,CAD
+"2026, April 29, 13:45","(Canada) BoC Monetary Policy Report",High,CAD
+"2026, April 29, 14:30","(Canada) BoC Press Conference",Medium,CAD
+"2026, April 29, 14:30","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, April 29, 14:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, April 29, 18:00","(United States) Fed Interest Rate Decision",High,USD
+"2026, April 29, 18:30","(United States) Fed Press Conference",High,USD
+"2026, April 29, 23:50","(Japan) Retail Sales YoY",Medium,JPY
+"2026, April 29, 23:50","(Japan) Industrial Production MoM",Medium,JPY
+"2026, April 30, 01:00","(New Zealand) ANZ Business Confidence",Medium,NZD
+"2026, April 30, 01:30","(China) NBS Non Manufacturing PMI",High,CNY
+"2026, April 30, 01:30","(China) NBS Manufacturing PMI",High,CNY
+"2026, April 30, 04:30","(Netherlands) Inflation Rate YoY",Medium,EUR
+"2026, April 30, 05:30","(France) GDP Growth Rate YoY",High,EUR
+"2026, April 30, 05:30","(France) GDP Growth Rate QoQ",High,EUR
+"2026, April 30, 06:00","(Germany) Retail Sales MoM",High,EUR
+"2026, April 30, 06:00","(Germany) Retail Sales YoY",High,EUR
+"2026, April 30, 06:00","(United Kingdom) Nationwide Housing Prices MoM",Medium,GBP
+"2026, April 30, 06:00","(United Kingdom) Nationwide Housing Prices YoY",Medium,GBP
+"2026, April 30, 06:45","(France) Inflation Rate MoM",Medium,EUR
+"2026, April 30, 06:45","(France) Inflation Rate YoY",High,EUR
+"2026, April 30, 07:00","(Spain) GDP Growth Rate QoQ",High,EUR
+"2026, April 30, 07:00","(Spain) GDP Growth Rate YoY",High,EUR
+"2026, April 30, 07:00","(Switzerland) KOF Leading Indicators",Medium,CHF
+"2026, April 30, 07:30","(Netherlands) GDP Growth Rate QoQ",Medium,EUR
+"2026, April 30, 07:30","(Netherlands) GDP Growth Rate YoY",Medium,EUR
+"2026, April 30, 07:55","(Germany) Unemployed Persons",Medium,EUR
+"2026, April 30, 07:55","(Germany) Unemployment Change",High,EUR
+"2026, April 30, 07:55","(Germany) Unemployment Rate",High,EUR
+"2026, April 30, 08:00","(Germany) GDP Growth Rate YoY",High,EUR
+"2026, April 30, 08:00","(Germany) GDP Growth Rate QoQ",High,EUR
+"2026, April 30, 08:00","(Italy) GDP Growth Rate YoY",High,EUR
+"2026, April 30, 08:00","(Italy) GDP Growth Rate QoQ",High,EUR
+"2026, April 30, 08:30","(Italy) Unemployment Rate",High,EUR
+"2026, April 30, 09:00","(Euro Area) Unemployment Rate",High,EUR
+"2026, April 30, 09:00","(Euro Area) Inflation Rate MoM",Medium,EUR
+"2026, April 30, 09:00","(Euro Area) Inflation Rate YoY",High,EUR
+"2026, April 30, 09:00","(Euro Area) GDP Growth Rate YoY",High,EUR
+"2026, April 30, 09:00","(Euro Area) CPI",High,EUR
+"2026, April 30, 09:00","(Euro Area) GDP Growth Rate QoQ",High,EUR
+"2026, April 30, 09:00","(Euro Area) Core Inflation Rate YoY",Medium,EUR
+"2026, April 30, 09:00","(Greece) Retail Sales YoY",High,EUR
+"2026, April 30, 09:00","(Italy) Inflation Rate YoY",High,EUR
+"2026, April 30, 09:00","(Italy) Inflation Rate MoM",Medium,EUR
+"2026, April 30, 11:00","(United Kingdom) BoE MPC Vote Unchanged",Medium,GBP
+"2026, April 30, 11:00","(United Kingdom) BoE MPC Vote Hike",Medium,GBP
+"2026, April 30, 11:00","(United Kingdom) BoE MPC Vote Cut",Medium,GBP
+"2026, April 30, 11:00","(United Kingdom) BoE Monetary Policy Report",High,GBP
+"2026, April 30, 11:00","(United Kingdom) MPC Meeting Minutes",Medium,GBP
+"2026, April 30, 11:00","(United Kingdom) BoE Interest Rate Decision",High,GBP
+"2026, April 30, 12:15","(Euro Area) ECB Interest Rate Decision",High,EUR
+"2026, April 30, 12:15","(Euro Area) Deposit Facility Rate",High,EUR
+"2026, April 30, 12:30","(Canada) GDP MoM",Medium,CAD
+"2026, April 30, 12:30","(Canada) GDP MoM",Medium,CAD
+"2026, April 30, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, April 30, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, April 30, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, April 30, 12:30","(United States) Core PCE Price Index MoM",High,USD
+"2026, April 30, 12:30","(United States) PCE Price Index YoY",Medium,USD
+"2026, April 30, 12:30","(United States) GDP Price Index QoQ",Medium,USD
+"2026, April 30, 12:30","(United States) Employment Cost Index QoQ",Medium,USD
+"2026, April 30, 12:30","(United States) Core PCE Price Index YoY",High,USD
+"2026, April 30, 12:30","(United States) Personal Spending MoM",High,USD
+"2026, April 30, 12:30","(United States) Personal Income MoM",High,USD
+"2026, April 30, 12:30","(United States) Employment Cost - Wages QoQ",Medium,USD
+"2026, April 30, 12:30","(United States) Employment Cost - Benefits QoQ",Medium,USD
+"2026, April 30, 12:30","(United States) GDP Growth Rate QoQ",High,USD
+"2026, April 30, 12:30","(United States) PCE Price Index MoM",Medium,USD
+"2026, April 30, 12:45","(Euro Area) ECB Press Conference",High,EUR
+"2026, April 30, 13:45","(United States) Chicago PMI",Medium,USD
+"2026, May 01, 01:30","(Australia) PPI QoQ",Medium,AUD
+"2026, May 01, 05:00","(Japan) Consumer Confidence",High,JPY
+"2026, May 01, 06:30","(Switzerland) Retail Sales YoY",High,CHF
+"2026, May 01, 06:30","(Switzerland) Retail Sales MoM",High,CHF
+"2026, May 01, 07:30","(Austria) Unemployment Rate",High,EUR
+"2026, May 01, 08:30","(United Kingdom) BoE Consumer Credit",Medium,GBP
+"2026, May 01, 08:30","(United Kingdom) Mortgage Approvals",Medium,GBP
+"2026, May 01, 08:30","(United Kingdom) Mortgage Lending",Medium,GBP
+"2026, May 01, 14:00","(United States) ISM Manufacturing PMI",High,USD
+"2026, May 01, 14:00","(United States) ISM Manufacturing Employment",Medium,USD
+"2026, May 01, 23:30","(Japan) Unemployment Rate",Medium,JPY
+"2026, May 04, 08:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
+"2026, May 04, 08:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
+"2026, May 04, 08:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
+"2026, May 04, 08:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
+"2026, May 04, 08:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
+"2026, May 04, 08:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
+"2026, May 04, 08:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
+"2026, May 05, 04:30","(Australia) RBA Interest Rate Decision",High,AUD
+"2026, May 05, 05:30","(Australia) RBA Press Conference",Medium,AUD
+"2026, May 05, 06:30","(Switzerland) Inflation Rate YoY",Medium,CHF
+"2026, May 05, 07:00","(Spain) Unemployment Change",High,EUR
+"2026, May 05, 12:30","(Canada) Balance of Trade",Medium,CAD
+"2026, May 05, 12:30","(United States) Imports",Medium,USD
+"2026, May 05, 12:30","(United States) Balance of Trade",Medium,USD
+"2026, May 05, 12:30","(United States) Exports",Medium,USD
+"2026, May 05, 14:00","(United States) ISM Services PMI",High,USD
+"2026, May 05, 14:00","(United States) JOLTs Job Openings",High,USD
+"2026, May 05, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, May 05, 21:00","(New Zealand) RBNZ Financial Stability Report",Medium,NZD
+"2026, May 05, 22:45","(New Zealand) Employment Change QoQ",High,NZD
+"2026, May 05, 22:45","(New Zealand) Unemployment Rate",High,NZD
+"2026, May 05, 23:00","(Australia) Ai Group Industry Index",Medium,AUD
+"2026, May 06, 01:00","(New Zealand) RBNZ Press Conference",Medium,NZD
+"2026, May 06, 06:45","(France) Industrial Production MoM",Medium,EUR
+"2026, May 06, 08:00","(Italy) Retail Sales YoY",High,EUR
+"2026, May 06, 08:00","(Italy) Retail Sales MoM",High,EUR
+"2026, May 06, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, May 06, 12:15","(United States) ADP Employment Change",High,USD
+"2026, May 06, 14:00","(Canada) Ivey PMI s.a",High,CAD
+"2026, May 06, 14:30","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, May 06, 14:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, May 06, 23:50","(Japan) BoJ Monetary Policy Meeting Minutes",Medium,JPY
+"2026, May 07, 01:30","(Australia) Balance of Trade",High,AUD
+"2026, May 07, 06:00","(Germany) Factory Orders MoM",Medium,EUR
+"2026, May 07, 06:45","(France) Balance of Trade",Medium,EUR
+"2026, May 07, 07:00","(Switzerland) Unemployment Rate",High,CHF
+"2026, May 07, 09:00","(Euro Area) Retail Sales MoM",High,EUR
+"2026, May 07, 09:00","(Euro Area) Retail Sales YoY",High,EUR
+"2026, May 07, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, May 07, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, May 07, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, May 07, 12:30","(United States) Unit Labour Costs QoQ",Medium,USD
+"2026, May 07, 12:30","(United States) Nonfarm Productivity QoQ",Medium,USD
+"2026, May 08, 00:01","(United Kingdom) RICS House Price Balance",Medium,GBP
+"2026, May 08, 06:00","(Germany) Balance of Trade",High,EUR
+"2026, May 08, 06:00","(Germany) Industrial Production MoM",Medium,EUR
+"2026, May 08, 06:00","(Germany) Exports MoM",Medium,EUR
+"2026, May 08, 06:00","(United Kingdom) Halifax House Price Index YoY",Medium,GBP
+"2026, May 08, 06:00","(United Kingdom) Halifax House Price Index MoM",Medium,GBP
+"2026, May 08, 07:00","(Switzerland) Consumer Confidence",Medium,CHF
+"2026, May 08, 12:30","(Canada) Employment Change",High,CAD
+"2026, May 08, 12:30","(Canada) Part Time Employment Chg",Medium,CAD
+"2026, May 08, 12:30","(Canada) Unemployment Rate",High,CAD
+"2026, May 08, 12:30","(Canada) Full Time Employment Chg",Medium,CAD
+"2026, May 08, 12:30","(Canada) Participation Rate",Medium,CAD
+"2026, May 08, 12:30","(United States) Non Farm Payrolls",High,USD
+"2026, May 08, 12:30","(United States) Average Hourly Earnings MoM",Medium,USD
+"2026, May 08, 12:30","(United States) Unemployment Rate",High,USD
+"2026, May 08, 12:30","(United States) Average Hourly Earnings YoY",Medium,USD
+"2026, May 08, 12:30","(United States) Nonfarm Payrolls Private",High,USD
+"2026, May 08, 12:30","(United States) U-6 Unemployment Rate",High,USD
+"2026, May 08, 12:30","(United States) Participation Rate",Medium,USD
+"2026, May 08, 14:00","(United States) Michigan Consumer Sentiment",High,USD
+"2026, May 08, 23:30","(Japan) Household Spending YoY",Medium,JPY
+"2026, May 08, 23:30","(Japan) Household Spending MoM",Medium,JPY
+"2026, May 09, 03:00","(China) Imports YoY",High,CNY
+"2026, May 09, 03:00","(China) Balance of Trade",High,CNY
+"2026, May 09, 03:00","(China) Exports YoY",High,CNY
+"2026, May 11, 01:30","(China) Inflation Rate YoY",High,CNY
+"2026, May 11, 01:30","(China) PPI YoY",Medium,CNY
+"2026, May 11, 01:30","(China) Inflation Rate MoM",Medium,CNY
+"2026, May 11, 08:00","(Australia) Myfxbook AUDUSD Sentiment",Medium,AUD
+"2026, May 11, 08:00","(Switzerland) Myfxbook USDCHF Sentiment",Medium,CHF
+"2026, May 11, 08:00","(Japan) Myfxbook USDJPY Sentiment",Medium,JPY
+"2026, May 11, 08:00","(European Union) Myfxbook EURUSD Sentiment",Medium,EUR
+"2026, May 11, 08:00","(United Kingdom) Myfxbook GBPUSD Sentiment",Medium,GBP
+"2026, May 11, 08:00","(Canada) Myfxbook USDCAD Sentiment",Medium,CAD
+"2026, May 11, 08:00","(New Zealand) Myfxbook NZDUSD Sentiment",Medium,NZD
+"2026, May 11, 14:00","(United States) Existing Home Sales MoM",High,USD
+"2026, May 11, 14:00","(United States) Existing Home Sales",High,USD
+"2026, May 11, 23:01","(United Kingdom) BRC Retail Sales Monitor YoY",High,GBP
+"2026, May 11, 23:50","(Japan) BoJ Summary of Opinions",Medium,JPY
+"2026, May 12, 08:00","(Italy) Industrial Production MoM",Medium,EUR
+"2026, May 12, 09:00","(Euro Area) ZEW Economic Sentiment Index",Medium,EUR
+"2026, May 12, 09:00","(Germany) ZEW Economic Sentiment Index",High,EUR
+"2026, May 12, 12:15","(United States) ADP Employment Change Weekly",High,USD
+"2026, May 12, 12:30","(United States) Inflation Rate YoY",High,USD
+"2026, May 12, 12:30","(United States) Core Inflation Rate MoM",High,USD
+"2026, May 12, 12:30","(United States) CPI",High,USD
+"2026, May 12, 12:30","(United States) CPI s.a",High,USD
+"2026, May 12, 12:30","(United States) Inflation Rate MoM",High,USD
+"2026, May 12, 12:30","(United States) Core Inflation Rate YoY",High,USD
+"2026, May 12, 18:00","(United States) Monthly Budget Statement",Medium,USD
+"2026, May 12, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, May 12, 23:50","(Japan) Current Account",Medium,JPY
+"2026, May 13, 00:30","(Australia) Westpac Consumer Confidence Index",Medium,AUD
+"2026, May 13, 00:30","(Australia) Westpac Consumer Confidence Change",High,AUD
+"2026, May 13, 01:30","(Australia) Investment Lending for Homes",Medium,AUD
+"2026, May 13, 01:30","(Australia) Home Loans QoQ",Medium,AUD
+"2026, May 13, 01:30","(Australia) NAB Business Confidence",High,AUD
+"2026, May 13, 05:30","(France) Unemployment Rate",Medium,EUR
+"2026, May 13, 06:00","(United Kingdom) Employment Change",High,GBP
+"2026, May 13, 06:00","(United Kingdom) Unemployment Rate",High,GBP
+"2026, May 13, 06:00","(United Kingdom) Average Earnings incl. Bonus (3Mo/Yr)",Medium,GBP
+"2026, May 13, 09:00","(Euro Area) Employment Change QoQ",High,EUR
+"2026, May 13, 09:00","(Euro Area) Industrial Production MoM",Medium,EUR
+"2026, May 13, 09:00","(Euro Area) Employment Change YoY",High,EUR
+"2026, May 13, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, May 13, 12:30","(United States) Core PPI MoM",Medium,USD
+"2026, May 13, 12:30","(United States) PPI MoM",High,USD
+"2026, May 13, 14:30","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, May 13, 14:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, May 14, 06:00","(United Kingdom) Business Investment QoQ",Medium,GBP
+"2026, May 14, 06:00","(United Kingdom) Goods Trade Balance",High,GBP
+"2026, May 14, 06:00","(United Kingdom) Industrial Production MoM",Medium,GBP
+"2026, May 14, 06:00","(United Kingdom) GDP Growth Rate QoQ",High,GBP
+"2026, May 14, 06:00","(United Kingdom) GDP 3-Month Avg",Medium,GBP
+"2026, May 14, 06:00","(United Kingdom) GDP Growth Rate YoY",High,GBP
+"2026, May 14, 06:00","(United Kingdom) Goods Trade Balance Non-EU",High,GBP
+"2026, May 14, 06:00","(United Kingdom) Manufacturing Production MoM",Medium,GBP
+"2026, May 14, 06:00","(United Kingdom) GDP MoM",High,GBP
+"2026, May 14, 09:00","(China) New Yuan Loans",Medium,CNY
+"2026, May 14, 12:30","(United States) Retail Sales MoM",High,USD
+"2026, May 14, 12:30","(United States) Retail Sales Ex Gas/Autos MoM",High,USD
+"2026, May 14, 12:30","(United States) Export Prices MoM",Medium,USD
+"2026, May 14, 12:30","(United States) Retail Sales Control Group MoM",High,USD
+"2026, May 14, 12:30","(United States) Retail Sales YoY",High,USD
+"2026, May 14, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, May 14, 12:30","(United States) Retail Sales Ex Autos MoM",High,USD
+"2026, May 14, 12:30","(United States) Import Prices MoM",Medium,USD
+"2026, May 14, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, May 14, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, May 14, 14:00","(United States) Business Inventories MoM",Medium,USD
+"2026, May 14, 22:30","(New Zealand) Business NZ PMI",Medium,NZD
+"2026, May 14, 23:50","(Japan) GDP Growth Annualized",Medium,JPY
+"2026, May 14, 23:50","(Japan) GDP Growth Rate QoQ",High,JPY
+"2026, May 15, 06:00","(Germany) Wholesale Prices MoM",Medium,EUR
+"2026, May 15, 06:00","(Germany) Wholesale Prices YoY",Medium,EUR
+"2026, May 15, 06:30","(Switzerland) Industrial Production YoY",Medium,CHF
+"2026, May 15, 09:00","(China) Current Account",Medium,CNY
+"2026, May 15, 10:00","(Spain) Consumer Confidence",Medium,EUR
+"2026, May 15, 12:15","(Canada) Housing Starts",Medium,CAD
+"2026, May 15, 12:30","(United States) NY Empire State Manufacturing Index",High,USD
+"2026, May 15, 13:15","(United States) Industrial Production MoM",Medium,USD
+"2026, May 18, 01:30","(China) House Price Index YoY",Medium,CNY
+"2026, May 18, 02:00","(China) Retail Sales YoY",High,CNY
+"2026, May 18, 02:00","(China) Fixed Asset Investment (YTD) YoY",Medium,CNY
+"2026, May 18, 02:00","(China) Industrial Production YoY",High,CNY
+"2026, May 18, 02:00","(China) Unemployment Rate",High,CNY
+"2026, May 18, 07:00","(Switzerland) GDP Growth Rate QoQ",Medium,CHF
+"2026, May 18, 08:00","(Italy) Balance of Trade",Medium,EUR
+"2026, May 18, 09:00","(China) FDI (YTD) YoY",Medium,CNY
+"2026, May 18, 14:00","(United States) NAHB Housing Market Index",Medium,USD
+"2026, May 18, 20:00","(United States) Net Long-term TIC Flows",Medium,USD
+"2026, May 19, 01:30","(Australia) RBA Meeting Minutes",High,AUD
+"2026, May 19, 08:00","(Spain) Balance of Trade",Medium,EUR
+"2026, May 19, 09:00","(Euro Area) Balance of Trade",Medium,EUR
+"2026, May 19, 12:15","(United States) ADP Employment Change Weekly",High,USD
+"2026, May 19, 12:30","(Canada) Inflation Rate MoM",Medium,CAD
+"2026, May 19, 12:30","(Canada) Core Inflation Rate YoY",Medium,CAD
+"2026, May 19, 12:30","(Canada) CPI Median YoY",High,CAD
+"2026, May 19, 12:30","(Canada) CPI Trimmed-Mean YoY",High,CAD
+"2026, May 19, 12:30","(Canada) Inflation Rate YoY",High,CAD
+"2026, May 19, 12:30","(Canada) CPI Common YoY",High,CAD
+"2026, May 19, 14:00","(United States) Pending Home Sales MoM",Medium,USD
+"2026, May 19, 14:00","(United States) Pending Home Sales YoY",Medium,USD
+"2026, May 19, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, May 20, 01:15","(China) Loan Prime Rate 1Y",Medium,CNY
+"2026, May 20, 01:15","(China) Loan Prime Rate 5Y",Medium,CNY
+"2026, May 20, 04:30","(Netherlands) Consumer Confidence",Medium,EUR
+"2026, May 20, 06:00","(Germany) PPI YoY",Medium,EUR
+"2026, May 20, 06:00","(United Kingdom) Inflation Rate YoY",High,GBP
+"2026, May 20, 06:00","(United Kingdom) Inflation Rate MoM",Medium,GBP
+"2026, May 20, 06:00","(United Kingdom) Core Inflation Rate YoY",Medium,GBP
+"2026, May 20, 09:00","(Euro Area) CPI",High,EUR
+"2026, May 20, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, May 20, 14:30","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, May 20, 14:30","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, May 20, 18:00","(United States) FOMC Minutes",High,USD
+"2026, May 20, 22:45","(New Zealand) Balance of Trade",Medium,NZD
+"2026, May 20, 23:50","(Japan) Balance of Trade",High,JPY
+"2026, May 20, 23:50","(Japan) Exports YoY",Medium,JPY
+"2026, May 21, 01:30","(Australia) Unemployment Rate",High,AUD
+"2026, May 21, 01:30","(Australia) Employment Change",High,AUD
+"2026, May 21, 01:30","(Australia) Full Time Employment Chg",Medium,AUD
+"2026, May 21, 04:30","(Netherlands) Unemployment Rate",Medium,EUR
+"2026, May 21, 12:30","(Canada) New Housing Price Index MoM",Medium,CAD
+"2026, May 21, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, May 21, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, May 21, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, May 21, 12:30","(United States) Building Permits",High,USD
+"2026, May 21, 12:30","(United States) Housing Starts",High,USD
+"2026, May 21, 12:30","(United States) Philadelphia Fed Manufacturing Index",Medium,USD
+"2026, May 21, 12:30","(United States) Building Permits MoM",Medium,USD
+"2026, May 21, 12:30","(United States) Housing Starts MoM",Medium,USD
+"2026, May 21, 14:00","(Euro Area) Consumer Confidence",Medium,EUR
+"2026, May 21, 22:45","(New Zealand) Retail Sales YoY",High,NZD
+"2026, May 21, 22:45","(New Zealand) Retail Sales QoQ",High,NZD
+"2026, May 21, 23:50","(Japan) Machinery Orders MoM",Medium,JPY
+"2026, May 21, 23:50","(Japan) Machinery Orders YoY",Medium,JPY
+"2026, May 22, 06:00","(Germany) GfK Consumer Confidence",High,EUR
+"2026, May 22, 06:00","(United Kingdom) Retail Sales MoM",High,GBP
+"2026, May 22, 06:00","(United Kingdom) Retail Sales YoY",High,GBP
+"2026, May 22, 06:00","(United Kingdom) Retail Sales ex Fuel MoM",High,GBP
+"2026, May 22, 06:00","(United Kingdom) Retail Sales ex Fuel YoY",High,GBP
+"2026, May 22, 06:45","(France) Business Confidence",Medium,EUR
+"2026, May 22, 08:00","(Germany) Ifo Business Climate",High,EUR
+"2026, May 22, 09:00","(Euro area) Negotiated Wage Growth",Medium,EUR
+"2026, May 22, 10:00","(United Kingdom) CBI Industrial Trends Orders",Medium,GBP
+"2026, May 22, 12:30","(Canada) Retail Sales MoM",High,CAD
+"2026, May 22, 12:30","(Canada) Retail Sales YoY",High,CAD
+"2026, May 22, 12:30","(Canada) Retail Sales MoM",High,CAD
+"2026, May 22, 12:30","(Canada) Retail Sales Ex Autos MoM",High,CAD
+"2026, May 22, 14:00","(United States) Michigan Consumer Sentiment",High,USD
+"2026, May 22, 23:01","(United Kingdom) Gfk Consumer Confidence",Medium,GBP
+"2026, May 22, 23:30","(Japan) Inflation Rate YoY",High,JPY
+"2026, May 22, 23:30","(Japan) Core Inflation Rate YoY",Medium,JPY
+"2026, May 25, 12:30","(United States) Chicago Fed National Activity Index",Medium,USD
+"2026, May 26, 13:00","(United States) S&P/Case-Shiller Home Price YoY",Medium,USD
+"2026, May 26, 14:00","(United States) CB Consumer Confidence",Medium,USD
+"2026, May 26, 14:30","(United States) Dallas Fed Manufacturing Index",Medium,USD
+"2026, May 27, 01:30","(Australia) RBA Weighted Median CPI MoM",High,AUD
+"2026, May 27, 01:30","(Australia) RBA Weighted Median CPI YoY",High,AUD
+"2026, May 27, 01:30","(Australia) RBA Trimmed Mean CPI MoM",High,AUD
+"2026, May 27, 01:30","(Australia) RBA Trimmed Mean CPI YoY",High,AUD
+"2026, May 27, 01:30","(Australia) Construction Work Done QoQ",Medium,AUD
+"2026, May 27, 01:30","(Australia) Inflation Rate YoY",Medium,AUD
+"2026, May 27, 01:30","(Australia) CPI",High,AUD
+"2026, May 27, 01:30","(Australia) Inflation Rate MoM",Medium,AUD
+"2026, May 27, 02:00","(New Zealand) RBNZ Interest Rate Decision",Medium,NZD
+"2026, May 27, 03:00","(New Zealand) RBNZ Press Conference",Medium,NZD
+"2026, May 27, 04:00","(European Union) New Car Registrations YoY",Medium,EUR
+"2026, May 27, 06:45","(France) Consumer Confidence",Medium,EUR
+"2026, May 27, 10:00","(France) Unemployment Benefit Claims",Medium,EUR
+"2026, May 27, 10:00","(United Kingdom) CBI Distributive Trades",Medium,GBP
+"2026, May 27, 11:00","(United States) MBA 30-Year Mortgage Rate",Medium,USD
+"2026, May 27, 12:15","(United States) ADP Employment Change Weekly",High,USD
+"2026, May 27, 20:30","(United States) API Crude Oil Stock Change",Medium,USD
+"2026, May 28, 01:00","(New Zealand) ANZ Business Confidence",Medium,NZD
+"2026, May 28, 05:00","(Japan) Housing Starts YoY",Medium,JPY
+"2026, May 28, 07:00","(Spain) Retail Sales MoM",High,EUR
+"2026, May 28, 07:00","(Spain) Retail Sales YoY",High,EUR
+"2026, May 28, 08:00","(Italy) Business Confidence",Medium,EUR
+"2026, May 28, 08:00","(Italy) Consumer Confidence",Medium,EUR
+"2026, May 28, 09:00","(Euro Area) Economic Sentiment",Medium,EUR
+"2026, May 28, 10:00","(Spain) Business Confidence",Medium,EUR
+"2026, May 28, 12:30","(Canada) Current Account",Medium,CAD
+"2026, May 28, 12:30","(United States) Jobless Claims 4-week Average",High,USD
+"2026, May 28, 12:30","(United States) Personal Income MoM",High,USD
+"2026, May 28, 12:30","(United States) GDP Growth Rate QoQ",High,USD
+"2026, May 28, 12:30","(United States) Durable Goods Orders MoM",High,USD
+"2026, May 28, 12:30","(United States) GDP Price Index QoQ",Medium,USD
+"2026, May 28, 12:30","(United States) PCE Price Index YoY",Medium,USD
+"2026, May 28, 12:30","(United States) Core PCE Price Index MoM",High,USD
+"2026, May 28, 12:30","(United States) Durable Goods Orders Ex Transp MoM",High,USD
+"2026, May 28, 12:30","(United States) Core PCE Price Index YoY",High,USD
+"2026, May 28, 12:30","(United States) Durable Goods Orders ex Defense MoM",High,USD
+"2026, May 28, 12:30","(United States) PCE Price Index MoM",Medium,USD
+"2026, May 28, 12:30","(United States) Corporate Profits QoQ",Medium,USD
+"2026, May 28, 12:30","(United States) Continuing Jobless Claims",High,USD
+"2026, May 28, 12:30","(United States) Initial Jobless Claims",High,USD
+"2026, May 28, 12:30","(United States) Personal Spending MoM",High,USD
+"2026, May 28, 14:00","(Canada) BoC Financial Stability Report",Medium,CAD
+"2026, May 28, 14:00","(United States) New Home Sales MoM",High,USD
+"2026, May 28, 14:00","(United States) New Home Sales",High,USD
+"2026, May 28, 16:00","(United States) EIA Gasoline Stocks Change",Medium,USD
+"2026, May 28, 16:00","(United States) EIA Crude Oil Stocks Change",Medium,USD
+"2026, May 28, 23:50","(Japan) Industrial Production MoM",Medium,JPY
+"2026, May 29, 05:00","(Japan) Consumer Confidence",High,JPY
+"2026, May 29, 06:00","(United Kingdom) Nationwide Housing Prices MoM",Medium,GBP
+"2026, May 29, 06:00","(United Kingdom) Nationwide Housing Prices YoY",Medium,GBP
+"2026, May 29, 06:45","(France) Inflation Rate MoM",Medium,EUR
+"2026, May 29, 06:45","(France) Inflation Rate YoY",High,EUR
 
